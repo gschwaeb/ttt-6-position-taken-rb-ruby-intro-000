@@ -4,3 +4,4 @@ if (board[index] ==  " " || board[index] == "" || board[index] == nil)
 else board[index] == "X"
   return true
 end
+end
